@@ -1,0 +1,6 @@
+test file
+
+#nothing here
+
+aws_access_token_id=AKIA34UWIKTBT3TIUAR6
+aws_secret_key=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
